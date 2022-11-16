@@ -1,0 +1,17 @@
+{
+    "name": "Pc-outro",
+    "version": "1.0.0",
+    "description": "TikTok Trend in js",
+    "main": "index.js",
+    "keywords": [
+      "outro",
+      "javascript",
+      "nodejs"
+    ],
+    "author": "Mr.Zanzibar",
+    "license": "MIT",
+    "dependencies": {
+      "sound-play": "^1.1.0"
+    }
+  }
+  
