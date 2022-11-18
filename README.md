@@ -3,7 +3,7 @@ Blow ur pc on 60 seconds
 
 ##
 
-- u will need nodeJS
+- you will need [NodeJS](https://nodejs.org/en/)
 
 - click on install.bat
 
